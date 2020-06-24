@@ -46,6 +46,6 @@
 
 ### Word Embeddings:
 * All the Deep Learning architectures use the GloVe Word Embeddings.
-* To download [click here](https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation?select=glove.6B.100d.txt)
+* To download [click here](https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation?select=glove.6B.100d.txt) (please download them before running the code.)
 * The 6 Billion words, 100 dimensional vector representation variant is used.
 * The have been stored at location 'Dataset/GloVe_Word_Embeddings'
