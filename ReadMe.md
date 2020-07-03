@@ -53,8 +53,8 @@
 ### Results:
 After tyring various machine learning and deep learning models, I got the following results.
 
-|Amazon Reviews|IMDB Reviews|Yelp Reviews|
-|:--------|:-------|:--------|
+|Model|Amazon Reviews|IMDB Reviews|Yelp Reviews|
+|:-------|:--------|:-------|:--------|
 |Multinomial Naive Bayes|85%|85%|78%|
 |Random Forest|80%|79%|79%|
 |Linear SVC|84%|81.50%|80%|
