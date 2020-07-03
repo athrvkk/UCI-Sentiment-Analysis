@@ -49,3 +49,15 @@
 * To download [click here](https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation?select=glove.6B.100d.txt) (please download them before running the code.)
 * The 6 Billion words, 100 dimensional vector representation variant is used.
 * The have been stored at location 'Dataset/GloVe_Word_Embeddings'
+
+### Results:
+After tyring various machine learning and deep learning models, I got the following results.
+
+|Amazon Reviews|IMDB Reviews|Yelp Reviews|
+|:--------|:-------|:--------|
+|Multinomial Naive Bayes|85%|85%|78%|
+|Random Forest|80%|79%|79%|
+|Linear SVC|84%|81.50%|80%|
+|DNN|81.50%|84%|82%|
+|CNN|87%|85.50%|82.50%|
+|LSTM|87%|85%|83%|
