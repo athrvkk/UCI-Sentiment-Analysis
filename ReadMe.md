@@ -30,8 +30,8 @@
 ## Deep Learning models:
 * I have used the follwoing Deep Learning models:
 
- 1. Deep Neural Network
- 2. Convolutional Neural Network
+ 1. Feed Forward Neural Network (FFNN)
+ 2. Convolutional Neural Network (CNN)
  3. Recurrent Neural Network (LSTM)
 
 
@@ -58,6 +58,6 @@ After tyring various machine learning and deep learning models, I got the follow
 |Multinomial Naive Bayes|85%|85%|78%|
 |Random Forest|80%|79%|79%|
 |Linear SVC|84%|81.50%|80%|
-|DNN|81.50%|84%|82%|
+|FFNN|81.50%|84%|82%|
 |CNN|87%|85.50%|82.50%|
 |LSTM|87%|85%|83%|
